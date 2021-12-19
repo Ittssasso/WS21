@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="../js/GetUserInfoJson.js"> </script>
+</head>
+<body>
+<section class="erabiltzaileak" id="s1">
+    <div>
+		<h2>Ikaslearen eposta sartu gainontzeko datuak eskuratzeko (json):</h2>
+		<form id="getUserInfoF" name="getUserInfoF" action="" method="post">
+			<label>Ikaslearen EHUko eposta</label><br/>
+			<input type="text" id="eposta" name="eposta"><br>
+			<label>Telefono zenbakia</label><br/>
+			<input type="text" id="telefonoa" name="telefonoa" readonly="readonly"><br>
+			<label>Ikaslearen izena</label><br/>
+			<input type="text" id="izena" name="izena" readonly="readonly"><br>
+			<label>Ikaslearen abizena/k</label><br/>
+			<input type="text" id="abizena" name="abizena" readonly="readonly"><br>
+			<input type="button" value="Eremuak osatu" id="osatu" name="osatu">
+		</form> <br>
+
+    </div>
+	</section>
+</body>
+</html>

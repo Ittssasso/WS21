@@ -1,0 +1,89 @@
+{
+    "assessmentItems": [
+        {
+            "subject": "Mikologia",
+            "author": "rosa.arruabarrena@ehu.es",
+            "itemBody": {
+                "p": "Tripakiek zer dute kapela azpian?"
+            },
+            "correctResponse": {
+                "response": "Eztenak"
+            },
+            "incorrectResponses": {
+                "response": [
+                    "Filamenduak",
+                    "Himenioa",
+                    "Hodiak"
+                ]
+            }
+        },
+        {
+            "subject": "GIH\/ODS",
+            "author": "mafalda001@ikasle.ehu.eus",
+            "itemBody": {
+                "p": "Garapen Iraunkorreko Helburu kopurua da: "
+            },
+            "correctResponse": {
+                "response": "17"
+            },
+            "incorrectResponses": {
+                "response": [
+                    "16",
+                    "19",
+                    "18"
+                ]
+            }
+        },
+        {
+            "subject": "hollywood",
+            "author": "ozaldua006@ikasle.ehu.eus",
+            "itemBody": {
+                "p": "Nor da aktore hau?"
+            },
+            "correctResponse": {
+                "response": "Tom Holland"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "Jeremy Irvine",
+                    "Tom Hiddleston",
+                    "Chris Hemsworth"
+                ]
+            }
+        },
+        {
+            "subject": "Azaroa",
+            "author": "itsa@ehu.es",
+            "itemBody": {
+                "p": "Noizko da Lab05?"
+            },
+            "correctResponse": {
+                "response": "Azaroak 3"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "Azaroak 4",
+                    "Azaroak 5",
+                    "Azaroak 6"
+                ]
+            }
+        },
+        {
+            "subject": "Futbola",
+            "author": "iy.garcia@conservatorioescudero.eus",
+            "itemBody": {
+                "p": "Zenbat gol sartu ditu Oyarzabalek?"
+            },
+            "correctResponse": {
+                "response": "4"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "3",
+                    "2",
+                    "1"
+                ]
+            }
+        }
+    ]
+}
